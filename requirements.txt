@@ -2,3 +2,6 @@ streamlit
 pandas
 PyGithub
 openpyxl
+aspose-cells
+pyxlsb
+xlrd
