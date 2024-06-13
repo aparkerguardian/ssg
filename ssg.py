@@ -8,7 +8,7 @@ import os
 
 # GitHub authentication
 access_token = os.getenv('GITHUB_TOKEN')
-repository_name = 'aparkerguardian/ssg-data-reshaper'
+repository_name = 'aparkerguardian/ssg'
 file_path = 'Mapping.xlsx'
 
 # Connect to the repository
